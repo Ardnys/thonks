@@ -35,3 +35,23 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+## Hello this is the page of my uhhh something
+Let me figure this out. [Click this](https://www.youtube.com/) if you don't know what is going  on. 
+
+There is syntax highlighting which is nice. Perhaps it will be useful.
+
+```julia
+function hello(a)
+    for i in 1:1:a
+        println("is this working")
+    end
+end
+
+hello(3)
+
+println("end of program")
+```
+it is going to look really silly if it doesn't work lol
+anyhow let's try
